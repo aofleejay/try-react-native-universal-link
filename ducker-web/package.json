@@ -1,11 +1,10 @@
 {
-  "name": "linkgo-web",
+  "name": "ducker-web",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
-    "react-router-dom": "4.3.1",
     "react-scripts": "2.1.3"
   },
   "scripts": {
@@ -22,11 +21,5 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ],
-  "devDependencies": {
-    "terser": "3.14.1"
-  },
-  "resolutions": {
-    "terser": "3.14.1"
-  }
+  ]
 }
