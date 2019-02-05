@@ -1,4 +1,4 @@
-package com.ducker;
+package com.aofleejay.ducker;
 
 import android.app.Application;
 
