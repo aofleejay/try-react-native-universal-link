@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.aofleejay.ducker",
+      "sha256_cert_fingerprints":
+      ["39:C7:02:86:A6:B0:77:21:3F:11:67:68:FE:24:0D:97:6F:05:6D:9A:4F:37:52:46:D9:22:F1:DE:8B:FE:01:7E"]
+    }
+  }
+]
