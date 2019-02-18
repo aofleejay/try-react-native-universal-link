@@ -8,5 +8,5 @@ With universal links, you can redirect user to your installed application when t
 1. Open simulator.
 2. Run command to open link
     - for iOS type `xcrun simctl openurl booted https://ducker.netlify.com` in terminal.
-    - for Android type `adb shell am start -d https://ducker.netlify.com` in terminal.
+    - for Android type `adb shell am start -W -a android.intent.action.VIEW -d "https://ducker.netlify.com"` in terminal.
 3. If [ducker app](https://github.com/aofleejay/try-react-native-universal-link/tree/master/ducker) installed, it go to installed app. If not, it go to [https://ducker.netlify.com](https://ducker.netlify.com)
